@@ -1,0 +1,5 @@
+export const SET_LIST_FILE = 'SET_LIST_FILE';
+export const SET_CACHE_LIST_FILE = 'SET_CACHE_LIST_FILE';
+export const FILTER_MEMBER_FILES = 'FILTER_MEMBER_FILES';
+export const SEARCH_FILES = 'SEARCH_FILES';
+ 
